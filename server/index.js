@@ -11,7 +11,7 @@ const app = express();  // creates the Express application
 app.use(cors({
   origin:[
     'http://localhost:3000',
-    'https://omkar-p.vercel.app/'
+    'https://omkar-p.vercel.app'
   ]   // only allow requests from our React app
 }));
 app.use(express.json());  // parses incoming JSON request bodies
