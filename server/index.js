@@ -9,7 +9,10 @@ const app = express();  // creates the Express application
 
 // ─── Middleware ────────────────────────────────────────────────────────────
 app.use(cors({
-  origin: 'https://omkar-p-6g9k.vercel.app'  // only allow requests from our React app
+  origin:[
+    'http://localhost:3000',
+    'https://omkar-p.vercel.app/'
+  ]   // only allow requests from our React app
 }));
 app.use(express.json());  // parses incoming JSON request bodies
 
