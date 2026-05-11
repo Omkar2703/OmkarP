@@ -2,21 +2,21 @@ const projectsData = [
   {
     title: 'Blockmeet-Decentralised Video conferencing platform',
     description: 'Developed a decentralized video conferencing app using a novel HydroCarbon peer-to-peer architecture, replacing centralized SFUs used by Zoom and Google Meet. Integrated IPFS for file sharing, Hardhat + Solidity smart contracts for on-chain meeting transparency, and WebRTC for real-time communication. Deployed client on Vercel and smart contracts on Polygon Testnet.',
-    tags: ['MERN stack', 'Tailwind CSS', 'WebRTC', 'HardHat + Solidity'],
+    tags: ['MongoDB', 'ReactJS', 'Express Js',' Node Js', 'Tailwind CSS', 'WebRTC', 'HardHat + Solidity'],
     github: 'https://github.com/deepsalunkhee/BlockMeet',
     demo: 'https://block-meet.vercel.app/signin'
   },
   {
     title: 'Campus Assistant Chatbot',
     description: 'An AI-powered campus assistant chatbot that answers natural-language questions related to timetables, mess menus, events, laundry schedules, and faculty information, backed by a fine-tuned intent classification model and a full-stack web application. This project demonstrates how machine learning, backend systems, and modern frontend design can work together to build a practical conversational system.',
-    tags: ['MERN', 'Python', 'Fine-tuned intent classification model'],
+    tags: ['MongoDB', 'ReactJS', 'Express Js',' Node Js', 'Python', 'Fine-tuned intent classification model'],
     github: 'https://github.com/Omkar2703/IITGN_SERV_MOD',
     demo: '#'
   },
   {
     title: 'Collab Flow',
     description: 'A real-time project and task management SaaS app — think lightweight Notion + Trello hybrid with AI superpowers. Built with React, Node.js, Express, MongoDB Atlas, and Socket.io.',
-    tags: ['MERN Stack', 'Mistral AI'],
+    tags: ['MongoDB', 'ReactJS', 'Express Js',' Node Js', 'Mistral AI'],
     github: 'https://github.com/Omkar2703/Project1',
     demo: '#'
   },
