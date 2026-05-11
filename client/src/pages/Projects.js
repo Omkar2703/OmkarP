@@ -19,6 +19,13 @@ const projectsData = [
     tags: ['MERN Stack', 'Mistral AI'],
     github: 'https://github.com/Omkar2703/Project1',
     demo: '#'
+  },
+  {
+    title: 'Domain Model Assistant',
+    description: 'Domain Model Assistant is an AI-powered web app that lets domain experts design and evolve database schemas using plain English — no SQL expertise needed. It uses LLM agents to generate versioned SQLite schemas, Mermaid ER diagrams, and test suites automatically. Every schema change is sandboxed in its own versioned database, making the entire process safe, auditable, and non-destructive.',
+    tags: ['Python', 'Flask', 'SQLAlchemy + SQLite', 'OpenAI API', 'sqlglot', 'Jinja2 templates', 'Mermaid.js'],
+    github: 'https://github.com/Omkar2703/SET_SDM.git',
+    demo: '#'
   }
 ];
 
