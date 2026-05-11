@@ -26,6 +26,13 @@ const projectsData = [
     tags: ['Python', 'Flask', 'SQLAlchemy + SQLite', 'OpenAI API', 'sqlglot', 'Jinja2 templates', 'Mermaid.js'],
     github: 'https://github.com/Omkar2703/SET_SDM.git',
     demo: '#'
+  },
+  {
+    title: 'Habit-tracker',
+    description: 'A full-stack habit tracking app based on your habits. Helps in Self-development.',
+    tags: ['MongoDB', 'ReactJS', 'Express Js',' Node Js',],
+    github: 'https://github.com/Omkar2703/habit-tracker.git',
+    demo: 'https://habit-tracker-ruby-chi.vercel.app/login'
   }
 ];
 
